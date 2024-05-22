@@ -7,4 +7,6 @@ El proyecto Turn-B es un sistema de gestión de turnos que sigue los criterios d
 El programa inicia solicitando que se ingresen los turnos de los clientes y una vez se indique como termida inicia el modo asesor el cual atiende los turnos y los da por terminados
 
 En una terminal en el directiorio raiz del proyecto escribe el siguiente comando y sigue las indicaciones del programa:
+```sh
 python main.py
+```
